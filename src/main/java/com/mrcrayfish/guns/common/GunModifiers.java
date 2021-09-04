@@ -28,7 +28,7 @@ public class GunModifiers
         @Override
         public float modifyProjectileDamage(float damage)
         {
-            return damage * 0.75F;
+            return damage * 1F;
         }
     };
 
